@@ -11,9 +11,9 @@
 
 - 🌱 I’m currently learning **React, Node, mongoodb**
 
-- 👨‍💻 All of my projects are available at [cbikas.com.np](cbikas.com.np)
+- 👨‍💻 All of my projects are available at [http://cbikas.com.np/](cbikas.com.np)
 
-- 📝 I regularly write articles on [blog.cbikas.com.np](blog.cbikas.com.np)
+- 📝 I regularly write articles on [http://blog.cbikas.com.np/](blog.cbikas.com.np)
 
 - 💬 Ask me about **symfony, php, ajax**
 
