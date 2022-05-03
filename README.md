@@ -11,15 +11,15 @@
 
 - 🌱 I’m currently learning **React, Node, mongoodb**
 
-- 👨‍💻 All of my projects are available at [http://cbikas.com.np/](cbikas.com.np)
+- 👨‍💻 All of my projects are available at [Personal Website](http://cbikas.com.np/)
 
-- 📝 I regularly write articles on [http://blog.cbikas.com.np/](blog.cbikas.com.np)
+- 📝 I regularly write articles on [My blogs](http://blog.cbikas.com.np/)
 
-- 💬 Ask me about **symfony, php, ajax**
+- 💬 Ask me about **symfony, php, ajax, mysql, react, node,**
 
 - 📫 How to reach me **vcbikash123@gmail.com**
 
-- 📄 Know about my experiences [cbikas.com.np](cbikas.com.np)
+- 📄 Know about my experiences [My website](http://cbikas.com.np/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
